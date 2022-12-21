@@ -1,0 +1,13 @@
+{
+  "deviceName": "emulator-5554",
+  "platformName": "Android",
+  "platformVersion": "11",
+  "appPackage": "com.disney.wdpro.dlr",
+  "appActivity": "com.disney.wdpro.park.activities.SplashActivity",
+  "app": "C:/Users/ACER/Desktop/APKS/Disneyland_7.17_Apkpure.apk",
+  "automationName": "UiAutomator2",
+  "autoGrantPermissions": "true",
+  "skipServerInstallation": "true",
+  "noReset": "true",
+  "newCommandTimeout": 120
+}
